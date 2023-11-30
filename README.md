@@ -12,6 +12,19 @@ Install my-project dengan git bash
 git clone https://github.com/FechL/Toko-Online.git
 ```
     
+## Usage
+
+Arahin direction ke src
+
+Build
+```CPP
+g++ -std=c++17 .\\src\\**.cpp -o .\\bin\\App.exe
+```
+Run
+```CPP
+.\\bin\\App.exe
+```
+
 ## Authors
 
 - Fawwas Aliy 235150300111009 ([@fechl](https://www.github.com/fechl))
