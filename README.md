@@ -14,7 +14,7 @@ git clone https://github.com/FechL/Toko-Online.git
     
 ## Usage
 
-Arahin direction ke src
+Arahin direction ke folder Toko-Online
 
 Build
 ```CPP
